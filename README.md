@@ -2,13 +2,6 @@
 > Here we will build multiple linear regression model for the prediction of demand for shared bikes. 
 
 
-Essentially, the company wants to know —
-
-Which variables are significant in predicting the demand for shared bikes.
-
-How well those variables describe the bike demands
-
-
 ## Table of Contents
 
 - [Multiple Linear Regression on Bike Sharing]
