@@ -17,7 +17,7 @@ How well those variables describe the bike demands
     - [Business Problem](#business-problem)
     - [Business Goal](#goal-of-the-project)
     - [Dataset information](#dataset-information)
-  - [Conclusions(Business Recomendation)](#conclusions)
+  - [Conclusions](#conclusions)
   - [Result](#result)
   - [Technologies Used](#technologies-used)
   - [Contact](#contact)
